@@ -1,0 +1,26 @@
+.active {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 4px 8px;
+    background-color: #8ce0c4;
+    /* background-color: #8de1c521; */
+    border-top-left-radius: 18px;
+    border-bottom-left-radius: 4px;
+    color: rgb(7, 7, 7);
+    font-weight: bolder;
+
+}
+
+/* .inactive {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 4px 8px;
+
+
+} */
+
+/* className={({ isActive }) =>
+    isActive ? 'active font-bold' : 'inactive'}
+ */
